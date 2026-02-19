@@ -1,1 +1,3 @@
-print("how are you")
+"""Test module."""
+
+print("hello")
